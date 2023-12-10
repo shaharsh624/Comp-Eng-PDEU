@@ -1,5 +1,9 @@
 
 <h1 align="center">PDEU Computer Engineering</h1>
+<p align="center">
+  Path to hack Computer Engineering at PDEU
+</p>
+
 
 ### Sem 3
 
